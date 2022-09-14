@@ -1,0 +1,15 @@
+.titulo{
+    font-weight: bold;
+ }
+ :root {
+    /*colors*/
+    --first--color: black;
+  
+    --text: hsl(0, 0%, 100%);
+  }
+  .tab {
+    background-color: var(--first--color) !important;
+    padding: 0.3rem;
+  }
+ 
+ 

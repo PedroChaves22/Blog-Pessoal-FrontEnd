@@ -1,0 +1,19 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+:root {
+    /*colors*/
+    --first--color: red;
+  
+    --text: hsl(0, 0%, 100%);
+  }
+  .appBar {
+    background-color: var(--first--color) !important;
+    padding: 0.3rem;
+  }
